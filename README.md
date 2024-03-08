@@ -1,2 +1,46 @@
+*Submission for the March 2024 Encode AI Hackathon, London*
+
 # AIdea
-AIdea is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive, drag-and-drop interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. 
+![Project Logo]()  
+
+
+
+## Introduction
+
+Problem
+
+Solution
+
+
+
+## Market Analysis
+
+
+
+
+## Business Model Canvas
+
+
+
+
+## Brand Identity
+
+
+
+
+## Code Documentation
+
+
+
+## Presentation Video
+![Presentation Video]()
+
+
+
+## Live Demo
+![Demo Link]()
+
+
+
+## Author
+- [Lorenzo Satta Chiris](https://github.com/LorenzoSattaChiris) - Entrepreneur, Developer, Designer
