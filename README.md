@@ -1,6 +1,6 @@
 *Submission for the March 2024 Encode AI Hackathon, London*
 
-# AIdea
+# AIdeate
 ![Project Logo]()  
 
 
