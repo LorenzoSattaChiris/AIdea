@@ -41,10 +41,16 @@ Supporting graphics include neural networks and human silhouettes that encapsula
 
 
 ## Brand Personality
-AIdeate embodies a brand personality that is innovative, inclusive, and empowering, striving to democratize the field of artificial intelligence. The brand values hinge on fostering creativity, embracing diversity, and encouraging the kind of collaboration that leads to groundbreaking ideas and solutions. AIdeate's purpose is to make the power of AI accessible to all, thereby lowering the barrier to entry for AI development and nurturing a supportive community of creators and innovators. This purpose is woven into every aspect of the brand's identity, from its thought-provoking logo to its vibrant color palette, ensuring that its core message of open, accessible innovation is clear and inviting. AIdeate is committed to being the catalyst for anyone, from any background, to bring their ideas to life and contribute to a future where technology serves as a bridge to new possibilities and complex problem-solving.
+AIdeate's purpose is to make the power of AI accessible to all, thereby lowering the barrier to entry for AI development and nurturing a supportive community of creators and innovators. 
+
+![8](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f8ed92ee-bc32-4557-bba6-29b5c93c08a9)
+
+Our purpose led us to our vision, a decentralized ownership of technology allowing anyone regardless of background to experiment with AI, empowering the use of these new tools. We believe that solving the problems of tomorrow requires to upskill the people that exist close to these problems, which is our mission. 
 
 ![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/4828ae62-2b81-4375-9776-a07ab5ab5eb9)
-![8](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f8ed92ee-bc32-4557-bba6-29b5c93c08a9)
+
+Our personalities and values reflect our purpose. Sparking the seed for human innovation empowewring an inclusive use of AI. 
+
 ![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/e1d1ce53-a396-4249-8ec7-dca65b300073)
 
 
