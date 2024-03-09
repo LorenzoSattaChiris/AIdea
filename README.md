@@ -18,7 +18,7 @@ A strong purpose led to a strong vision, a decentralized ownership of technology
 
 ![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/4828ae62-2b81-4375-9776-a07ab5ab5eb9)
 
-Our personalities and values reflect our purpose. Sparking the seed for human innovation empowering  an inclusive use of AI. 
+Our personalities and values reflect our purpose. Sparking the seed for human innovation empowering an inclusive use of AI. 
 
 ![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/e1d1ce53-a396-4249-8ec7-dca65b300073)
 
@@ -64,28 +64,34 @@ While always being aware of our limits, operating with our strong and weak point
 ![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/07de60b7-b201-483d-a062-ba943f18bd4d)
 
 
-
-A written Market Analysis report can be found [here](https://lsattachiris.notion.site/Market-Analysis-0205f42bdd3f4c3bab5571032f93073a)
+A written Market Analysis report can be found [here](https://lsattachiris.notion.site/Market-Analysis-0205f42bdd3f4c3bab5571032f93073a).
 A Presentation Market Analysis can be found [here](https://www.canva.com/design/DAF_DD0qQTQ/t6nHaZBkrfHU8aDGzGyUIA/edit?utm_content=DAF_DD0qQTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
 ## Business Model Canvas
+Our Business Model Canvas serve as the foundation for our future business, identifying our main costs, interactions and revenues. 
 ![BMC](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/88eb3301-0b7d-4d89-a5c2-4d94e147f622)
 
 
+## Our Product
+Our Product is a platform that allows anyone to quickly and easily create a custom neural network AI model. We gently guide the user in the process by explaining each step, accepting both new and experienced usage. We then generate a report on the AI created performances and propose ways to improve the model. 
 
 
 
-## Code Documentation
+## The Technology
 
+![Stack](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/011a80a7-2afc-487b-9a8a-0b1e30dc015b)
+
+
+## Future Steps
 
 
 ## Presentation Video
 ![Presentation Video]()
 
 
-
 ## Live Demo
-![Demo Link]()
+![Demo Link](https://01i18cbtmck.typeform.com/to/fCszoK2g?utm_source=xxxxx&utm_medium=xxxxx)
 
 ## LinkTree
 | Name | Link |
