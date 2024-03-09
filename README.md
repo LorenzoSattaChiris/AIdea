@@ -1,14 +1,12 @@
-![aidea logo](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f09c2893-773d-444a-b56c-b28bfed9cebe)
+![AIdeate logo](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f09c2893-773d-444a-b56c-b28bfed9cebe)
 
 *Submission for the March 2024 Encode AI Hackathon, London*
 
 
-
-
 ## Introduction
-![1](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/c6e188ed-1bf9-4705-8299-07ba6bf4181c)
-
 AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive, drag-and-drop interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
+
+![1](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/c6e188ed-1bf9-4705-8299-07ba6bf4181c)
 
 
 ## Brand Personality
@@ -24,6 +22,7 @@ Our personalities and values reflect our purpose. Sparking the seed for human in
 
 ![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/e1d1ce53-a396-4249-8ec7-dca65b300073)
 
+
 ## Brand Identity
 
 AIdeate's brand identity is a blend of modernity and creativity, designed to resonate with a diverse spectrum of innovators and creators. At its heart the AIdeate logo is an artistic conjunction of a brain and a lightbulb, representing the seamless integration of human intellect with the transformative power of AI technology. This symbol is crafted in a minimalist yet dynamic fashion, asserting AIdeate's core mission to make AI accessible and stimulating.
@@ -34,7 +33,7 @@ AIdeate employs Montserrat for its modern, geometric lines and Open Sans for an 
 
 ![3](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/7b62dcdd-a3c3-40d0-9c50-6299bb68e488)
 
-The visual identity extends to the color palette, where electric blue stands for innovation and professionalism, and muted coral adds a warm, distinctive pop, appealing directly to the youthful, creative audience AIdeate seeks to empower. This complement the use of modern and clean typography
+The visual identity extends to the color palette, where electric blue stands for innovation and professionalism, and muted coral adds a warm, distinctive pop, appealing directly to the youthful, creative audience AIdeate seeks to empower. This complement the use of modern and clean typography.
 
 ![4](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/b23324a0-7a7b-4f08-afff-ea0d1cd8299d)
 
@@ -44,13 +43,30 @@ Supporting graphics include neural networks and human silhouettes that encapsula
 
 Our Brand Identity and Brand Guidelines are contained in a presentation whose content can be found [here](https://www.canva.com/design/DAF-3XcX8_M/JJ5P7M0pNKurC3u0r3biwA/edit?utm_content=DAF-3XcX8_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
 ## Market Analysis
-### Customer Personas
-We identified three core 
+Broadly, we identified a convergence in the AI and no-code trends, meaning that it is the perfect opportunity for AIdeate to reach the market.  
+![5](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/96dc4f93-033f-4a00-bd48-3d38666aa40e)
+
+However, contrasting the trend, there is a small presence in the market as shown by our competitors analysis.
+![3](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/66840198-b8e7-4839-9a40-27143344548f)
+
+This allow us to have an important reachable market.
+![4](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/d035fbaa-8c85-4077-8875-eedd036c728c)
+
+That we can break down into three core engaged potential customers personas that our services can address. 
+![2](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f158c103-a60f-47be-a021-c764b714313f)
+
+Customer personas that we plan to reach with our market strategy.
+![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/ac80da22-2399-4a73-846e-db1dbea030ab)
+
+While always being aware of our limits, operating with our strong and weak points in mind. 
+![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/07de60b7-b201-483d-a062-ba943f18bd4d)
 
 
 
-Our Entire Market Analysis can be found here: https://lsattachiris.notion.site/Market-Analysis-0205f42bdd3f4c3bab5571032f93073a
+A written Market Analysis report can be found [here](https://lsattachiris.notion.site/Market-Analysis-0205f42bdd3f4c3bab5571032f93073a)
+A Presentation Market Analysis can be found [here](https://www.canva.com/design/DAF_DD0qQTQ/t6nHaZBkrfHU8aDGzGyUIA/edit?utm_content=DAF_DD0qQTQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Business Model Canvas
 ![BMC](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/88eb3301-0b7d-4d89-a5c2-4d94e147f622)
