@@ -48,7 +48,7 @@ Our Brand Identity and Brand Guidelines are contained in a presentation whose co
 Broadly, we identified a convergence in the AI and no-code trends, meaning that it is the perfect opportunity for AIdeate to reach the market.  
 ![5](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/96dc4f93-033f-4a00-bd48-3d38666aa40e)
 
-However, contrasting the trend, there is a small presence in the market as shown by our competitors analysis.
+However, contrasting the trend, there is a small direct presence in the market as shown by our competitors analysis. There are no proper direct competitors and the ones indicated do not share our same focus and purpose. 
 ![3](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/66840198-b8e7-4839-9a40-27143344548f)
 
 This allow us to have an important reachable market.
