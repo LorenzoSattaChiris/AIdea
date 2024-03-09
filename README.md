@@ -11,26 +11,30 @@
 AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive, drag-and-drop interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
 
 
-## Market Analysis
+## Brand Personality
+AIdeate's purpose is to make the power of AI accessible to all, thereby lowering the barrier to entry for AI development and nurturing a supportive community of creators and innovators. 
 
+![8](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f8ed92ee-bc32-4557-bba6-29b5c93c08a9)
 
+A strong purpose led to a strong vision, a decentralized ownership of technology allowing anyone regardless of background to experiment with AI, empowering the use of these new tools. At AIdeate we believe that solving the problems of tomorrow requires to upskill the people that exist close to these problems, which is our mission. 
 
+![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/4828ae62-2b81-4375-9776-a07ab5ab5eb9)
 
-## Business Model Canvas
-![BMC](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/88eb3301-0b7d-4d89-a5c2-4d94e147f622)
+Our personalities and values reflect our purpose. Sparking the seed for human innovation empowering  an inclusive use of AI. 
 
-
-
-
+![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/e1d1ce53-a396-4249-8ec7-dca65b300073)
 
 ## Brand Identity
 
 AIdeate's brand identity is a blend of modernity and creativity, designed to resonate with a diverse spectrum of innovators and creators. At its heart the AIdeate logo is an artistic conjunction of a brain and a lightbulb, representing the seamless integration of human intellect with the transformative power of AI technology. This symbol is crafted in a minimalist yet dynamic fashion, asserting AIdeate's core mission to make AI accessible and stimulating.
 
 ![2](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/b1458ca1-3f14-4190-a4a5-09d7e0ba9f7d)
+
+AIdeate employs Montserrat for its modern, geometric lines and Open Sans for an elegant and highly legible core. This further reinforce our brand identity, seeking inclusivity and innovation while maintaining a professional outlook. 
+
 ![3](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/7b62dcdd-a3c3-40d0-9c50-6299bb68e488)
 
-The visual identity extends to the color palette, where electric blue stands for innovation and professionalism, and muted coral adds a warm, distinctive pop, appealing directly to the youthful, creative audience AIdeate seeks to empower. This is complemented by the use of modern and clean typography, with fonts like Montserrat and Open Sans that communicate innovation, approachability, and professionalism.
+The visual identity extends to the color palette, where electric blue stands for innovation and professionalism, and muted coral adds a warm, distinctive pop, appealing directly to the youthful, creative audience AIdeate seeks to empower. This complement the use of modern and clean typography
 
 ![4](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/b23324a0-7a7b-4f08-afff-ea0d1cd8299d)
 
@@ -38,21 +42,18 @@ Supporting graphics include neural networks and human silhouettes that encapsula
 
 ![5](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/2c7b0c76-6339-4419-a32a-d8bec2318cd7)
 
+Our Brand Identity and Brand Guidelines are contained in a presentation whose content can be found [here](https://www.canva.com/design/DAF-3XcX8_M/JJ5P7M0pNKurC3u0r3biwA/edit?utm_content=DAF-3XcX8_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Market Analysis
+### Customer Personas
+We identified three core 
 
 
-## Brand Personality
-AIdeate's purpose is to make the power of AI accessible to all, thereby lowering the barrier to entry for AI development and nurturing a supportive community of creators and innovators. 
 
-![8](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/f8ed92ee-bc32-4557-bba6-29b5c93c08a9)
+Our Entire Market Analysis can be found here: https://lsattachiris.notion.site/Market-Analysis-0205f42bdd3f4c3bab5571032f93073a
 
-Our purpose led us to our vision, a decentralized ownership of technology allowing anyone regardless of background to experiment with AI, empowering the use of these new tools. We believe that solving the problems of tomorrow requires to upskill the people that exist close to these problems, which is our mission. 
-
-![7](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/4828ae62-2b81-4375-9776-a07ab5ab5eb9)
-
-Our personalities and values reflect our purpose. Sparking the seed for human innovation empowewring an inclusive use of AI. 
-
-![6](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/e1d1ce53-a396-4249-8ec7-dca65b300073)
-
+## Business Model Canvas
+![BMC](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/88eb3301-0b7d-4d89-a5c2-4d94e147f622)
 
 
 
