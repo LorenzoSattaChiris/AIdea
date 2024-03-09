@@ -76,6 +76,29 @@ Our Business Model Canvas serve as the foundation for our future business, ident
 ## Our Product
 Our Product is a platform that allows anyone to quickly and easily create a custom neural network AI model. We gently guide the user in the process by explaining each step, accepting both new and experienced usage. We then generate a report on the AI created performances and propose ways to improve the model. 
 
+### Phase 1 
+Phase 1 is our research and validation phase. The objective of this phase is to gather customer informations via organic interactions. This phase will serve as a proof of concept to raise the capital needed to develop the full-fledged product. In this phase, multiple MVPs will be used. All the necessary steps to effectibely perform this phase were executed during this hackathon and are presented below. 
+
+1. An Automated Typeform
+To be able to quickly iterate a Typeform will be used, filling for the full app at the first stage. This Typeform contains key question to create an AI from and is fully automated being connected to a Notion database and later our Python Code in order to send the model to the customer. However, the process still needs to be manually reviewed and a human approval is needed to validate the email sending. 
+Image
+
+Try it yourself [here](https://01i18cbtmck.typeform.com/to/fCszoK2g?utm_source=xxxxx&utm_medium=xxxxx). 
+
+3. A minimalist API
+A minimalist 
+
+4. App Mockups
+App Mockups were created in Figma and will be used for market research. The video below illustrates the functionning of the mockups.
+
+
+Try it yourself [here](https://www.figma.com/proto/Nt1IWkpLtXcGZT8v5PMNZm/AIdeate?page-id=0%3A1&type=design&node-id=57-2484&viewport=644%2C-321%2C0.5&t=21PcZUraUaik6kL4-1&scaling=scale-down&starting-point-node-id=57%3A2484&mode=design). 
+
+### Phase 2
+Phase 2 is our product phase. The objective of this phase is to iteratively develop a product to effectively meet the user needs, starting from the existing MVP. Lean Development and constant validations will be key in this phase. 
+
+### Phase 3 
+Phase 3 is our growth phase. The objective of this phase is to become an established product delivering an high quality service to customers. Marketing and collaborations will be key in this phase. 
 
 
 ## The Technology
@@ -89,6 +112,8 @@ Our Product is a platform that allows anyone to quickly and easily create a cust
 ## Presentation Video
 ![Presentation Video]()
 
+## Pitch Deck
+We have a pitch deck ready for the Hackathon and later grants, inverstors or event. It is available [here](https://www.canva.com/design/DAF-34QQg2w/yRmKZZpL4gAinsuYI5wXGA/edit?utm_content=DAF-34QQg2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Live Demo
 ![Demo Link](https://01i18cbtmck.typeform.com/to/fCszoK2g?utm_source=xxxxx&utm_medium=xxxxx)
