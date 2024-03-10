@@ -126,9 +126,9 @@ We look beyond the hackathon to a future where our no-code AI platform becomes t
 We have a pitch deck ready for the Hackathon and later grants, inverstors or event. It is available [here](https://www.canva.com/design/DAF-34QQg2w/yRmKZZpL4gAinsuYI5wXGA/edit?utm_content=DAF-34QQg2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Live Demo
-Typeform: ![Typeform Link](https://01i18cbtmck.typeform.com/to/fCszoK2g?utm_source=xxxxx&utm_medium=xxxxx)
+Typeform: [Typeform Link](https://01i18cbtmck.typeform.com/to/fCszoK2g?utm_source=xxxxx&utm_medium=xxxxx)
 
-Figma Prototype: ![Figma Link](https://www.figma.com/proto/Nt1IWkpLtXcGZT8v5PMNZm/AIdeate?page-id=0%3A1&type=design&node-id=57-2484&viewport=644%2C-321%2C0.5&t=21PcZUraUaik6kL4-1&scaling=scale-down&starting-point-node-id=57%3A2484&mode=design)
+Figma Prototype: [Figma Link](https://www.figma.com/proto/Nt1IWkpLtXcGZT8v5PMNZm/AIdeate?page-id=0%3A1&type=design&node-id=57-2484&viewport=644%2C-321%2C0.5&t=21PcZUraUaik6kL4-1&scaling=scale-down&starting-point-node-id=57%3A2484&mode=design)
 
 ## LinkTree
 | Name | Link |
