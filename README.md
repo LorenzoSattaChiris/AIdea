@@ -4,7 +4,7 @@
 
 
 ## Introduction
-AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive, drag-and-drop interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
+AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
 
 ![1](https://github.com/LorenzoSattaChiris/AIdeate/assets/150603110/c6e188ed-1bf9-4705-8299-07ba6bf4181c)
 
