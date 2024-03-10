@@ -117,7 +117,7 @@ As aready stated on our product section, here are the main technologies used for
 
 
 ## Future Steps
-We look beyond the hackathon to a future where our no-code AI platform becomes the standard for intuitive, inclusive AI development. Our roadmap includes an iterative product phase to refine our MVPs based on customer feedback, followed by a growth phase to solidify our market presence through strategic marketing and partnerships. Our commitment to innovation will continue to drive us towards making AI technology accessible to creators and innovators everywhere.
+We look beyond the hackathon to a future where our no-code AI platform becomes the standard for intuitive, inclusive AI development. Our roadmap includes an iterative product phase to refine our MVPs based on customer feedback, followed by a growth phase to solidify our market presence through strategic marketing and partnerships. Our commitment to innovation will continue to drive us towards making AI technology accessible to creators and innovators everywhere. In a long term future, we plan to expand and provide a blockchain based model exchange platform and other democratisation platforms such as in solidity (smart contracts) or web3 apps. 
 
 ## Presentation Video
 ![Presentation Video]()
