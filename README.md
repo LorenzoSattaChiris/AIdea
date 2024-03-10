@@ -2,6 +2,8 @@
 
 *Submission for the March 2024 Encode AI Hackathon, London*
 
+## Presentation Video
+![Presentation Video](https://www.canva.com/design/DAF_Dog3Bl8/ZvdXd7Qb6Ls3ZRgWYoNSsA/watch?utm_content=DAF_Dog3Bl8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Introduction
 AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
@@ -118,9 +120,6 @@ As aready stated on our product section, here are the main technologies used for
 
 ## Future Steps
 We look beyond the hackathon to a future where our no-code AI platform becomes the standard for intuitive, inclusive AI development. Our roadmap includes an iterative product phase to refine our MVPs based on customer feedback, followed by a growth phase to solidify our market presence through strategic marketing and partnerships. Our commitment to innovation will continue to drive us towards making AI technology accessible to creators and innovators everywhere. In a long term future, we plan to expand and provide a blockchain based model exchange platform and other democratisation platforms such as in solidity (smart contracts) or web3 apps. 
-
-## Presentation Video
-![Presentation Video]()
 
 ## Pitch Deck
 We have a pitch deck ready for the Hackathon and later grants, inverstors or event. It is available [here](https://www.canva.com/design/DAF-34QQg2w/yRmKZZpL4gAinsuYI5wXGA/edit?utm_content=DAF-34QQg2w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
