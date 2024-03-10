@@ -3,7 +3,7 @@
 *Submission for the March 2024 Encode AI Hackathon, London*
 
 ## Presentation Video
-![Presentation Video](https://www.canva.com/design/DAF_Dog3Bl8/ZvdXd7Qb6Ls3ZRgWYoNSsA/watch?utm_content=DAF_Dog3Bl8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Presentation Video](https://www.canva.com/design/DAF_Dog3Bl8/ZvdXd7Qb6Ls3ZRgWYoNSsA/watch?utm_content=DAF_Dog3Bl8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Introduction
 AIdeate is a no-code platform designed to democratize the creation of artificial intelligence. By providing an intuitive interface, it allows users from all backgrounds—regardless of their coding expertise—to build, train, and deploy AI models. From startups to educators, AIdeate is the bridge between complex technology and creative minds, turning ideas into practical AI solutions.
